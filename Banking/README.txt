@@ -1,0 +1,19 @@
+
+			DIT948 Assignment2_2016
+
+Authors: _______________________________________________
+
+Julian Bock, gusbocju@student.gu.se
+890628-8850
+
+Kundananji Sinkala, gussinku@student.gu.se
+851122-6790
+
+Contribution: __________________________________________
+
+src/Account			    Kundananji Sinkala
+src/Bank			    Julian Bock
+src/BankMain			    Julian Bock
+src/Transaction			    Kundananji Sinkala
+src/User			    Kundananji Sinkala
+
