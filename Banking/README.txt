@@ -4,10 +4,10 @@
 Authors: _______________________________________________
 
 Julian Bock, gusbocju@student.gu.se
-890628-8850
+
 
 Kundananji Sinkala, gussinku@student.gu.se
-851122-6790
+
 
 Contribution: __________________________________________
 
